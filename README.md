@@ -1,4 +1,4 @@
-# ooxml-tools
+# @ooxml-tools
 A collection of tools and npm modules for the Office Open XML [spec](https://ecma-international.org/publications-and-standards/standards/ecma-376/)
 
 Apps & CLIs
