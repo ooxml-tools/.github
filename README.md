@@ -1,4 +1,4 @@
-# <img alt="@ooxml-tools" src="https://github.com/user-attachments/assets/ad7c9b00-bda4-4807-849d-1a62363e85af" width="200" />
+# <img alt="@ooxml-tools" height="56" src="https://github.com/user-attachments/assets/3b3c02e0-c167-4086-b66b-65f9bbdebb5a" />
 A collection of tools and npm modules for the Office Open XML [spec](https://ecma-international.org/publications-and-standards/standards/ecma-376/)
 
 Apps & CLIs
