@@ -20,7 +20,7 @@ Apps & CLIs
 
 Modules
 
- - 👷 [validate](https://github.com/ooxml-tools/validate) — validate against the OOXML spec
+ - ✅ [validate](https://github.com/ooxml-tools/validate) — validate against the OOXML spec
  - ✅ [render](https://github.com/ooxml-tools/render) — render OOXML files using a variety of apps
  - ✅ [file](https://github.com/ooxml-tools/file) — extract, combine & view contents of a OOXML zip file
  - ✅ [units](https://github.com/ooxml-tools/units) — OOXML unit conversion functions
