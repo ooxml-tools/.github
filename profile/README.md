@@ -24,6 +24,7 @@ Modules
  - [`render`](https://github.com/ooxml-tools/render) — render OOXML files using a variety of apps
  - [`file`](https://github.com/ooxml-tools/file) — extract, combine & view contents of a OOXML zip file
  - [`units`](https://github.com/ooxml-tools/units) — OOXML unit conversion functions
+ - [~~`xml`~~](https://github.com/ooxml-tools/xml) — Some XML helpers to help with OOXML development (👷 work in progress)
  - ~~`jsx`~~ — write OOXML using JSX (👷 work in progress)
 
 
